@@ -1,6 +1,11 @@
 <template>
   <div class="home">
-    <h1 class="display-1">Weekly Task 1</h1>
+    <h1 class="display-1">
+      <p>Weekly Task 1</p>
+      <p class="fs-2" >Understand Everything about Vue JS Front-End Engineer</p>
+      <p class="fs-3" >Savira Auliya Ardana</p>
+
+    </h1>
   </div>
 </template>
 
